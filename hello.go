@@ -1,0 +1,6 @@
+package gosamples
+
+import (
+	"fmt"
+)
+
